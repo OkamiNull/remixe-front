@@ -39,10 +39,9 @@ function LandingPage() {
         	</div>
 
         {/* Textos da parte de baixo */}
-        	<div className={styles.bottomContent}>
-          	<p className={styles.overlaySubtitle}>EMPRESAS QUE ACELERAM O APRENDIZADO COM A REMIXE</p>
-          	<h2 className={styles.overlayTitle}>Você</h2>
-        	</div>
+        <div className={styles.bottomContent}>
+          <p className={styles.overlaySubtitle}>EMPRESAS ACELERAM O APRENDIZADO COM A REMIXE</p>
+        </div>
 
       </div>
     </section>
